@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_4662d686bc374daf6805cb42aa8b75f85eee0aee.jar" />
+    </item>
+    <item
+        jar="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_1c57e226fb5dceeedf813c1111b617f80920d0c1.jar" />
+    </item>
+    <item
+        jar="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_cfd23937ca2f617c8e7330e7f6009be92fb0e856.jar" />
+    </item>
+    <item
+        jar="/Users/greent/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_36b4323b5abeafcf29f6538566e29dc4d09b59aa.jar" />
+    </item>
+    <item
+        jar="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_a91265d3481cd4209e16b09ec994682619f9f32c.jar" />
+    </item>
+    <item
+        jar="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bcee2598dbb74f6d043225a0d7e178b0c7ea4006">
+        <dex dex="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-23.2.1_9a354d8d8f9a789411f1fd8ea1764619cda9229d.jar" />
+    </item>
+    <item
+        jar="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_89a0b33ba742108a23295e8dae228bd22e322cfe.jar" />
+    </item>
+    <item
+        jar="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b95d10913c24f217dca25ccfb8293a04ebfed3a8">
+        <dex dex="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.2.1_2bc4898f4f1cb3570c2b82d8f921781f15644366.jar" />
+    </item>
+    <item
+        jar="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bd48446a8b4b2fdcac0e38f49b5d6dc3abb1eefa">
+        <dex dex="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_d98d618346755d7ae43c4a4f267dcf07b50d6858.jar" />
+    </item>
+    <item
+        jar="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.1_7b4215903d004a3f8048925590a4f6f9deb535aa.jar" />
+    </item>
+    <item
+        jar="/Users/greent/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_0fcaa9b88c82ec11c81989194ce13a9a60bae943.jar" />
+    </item>
+    <item
+        jar="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_6cb1ae18bf3d40e6853c36688f5d244269fdf88a.jar" />
+    </item>
+    <item
+        jar="/Users/greent/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_28bd402033872639394f585caf226529b87325d6.jar" />
+    </item>
+    <item
+        jar="/Users/greent/StudioProjects/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/greent/StudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley_642a1efcabab76ed00a7b054186e294dc88e6aca.jar" />
+    </item>
+
+</items>
