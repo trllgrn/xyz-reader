@@ -25,4 +25,10 @@
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
 
+    <style name="Theme.Reader" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/primary_dark_reader</item>
+        <item name="colorAccent">@color/accent_reader</item>
+        <item name="colorPrimary">@color/primary_reader</item>
+    </style>
+
 </resources>
