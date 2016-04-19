@@ -1,11 +1,25 @@
 <resources>
+    <!-- list -->
+    <dimen name="status_bar_height_material">24dp</dimen>
+    <dimen name="toolbar_height_material">56dp</dimen>
+    <dimen name="subtitle_height_material">48dp</dimen>
+    <dimen name="screen_margin_material">16dp</dimen>
+    <dimen name="content_left_margin">72dp</dimen>
+
+    <!-- card -->
+    <dimen name="primary_title_top_padding">24dp</dimen>
+    <dimen name="primary_title_bottom_padding">16dp</dimen>
+    <dimen name="title_text_size">24sp</dimen>
+    <dimen name="subtitle_text_size">14sp</dimen>
+
+
     <!-- detail -->
     <dimen name="detail_title_text_size">32sp</dimen>
     <dimen name="detail_body_text_size">22sp</dimen>
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
 
-    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_elevation">4dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
-    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
 
 </resources>

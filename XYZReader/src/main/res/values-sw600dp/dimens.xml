@@ -1,4 +1,11 @@
 <resources>
+    <!-- list -->
+    <dimen name="status_bar_height_material">24dp</dimen>
+    <dimen name="toolbar_height_material">64dp</dimen>
+    <dimen name="subtitle_height_material">48dp</dimen>
+    <dimen name="screen_margin_material">24dp</dimen>
+    <dimen name="content_left_margin">72dp</dimen>
+
     <!-- detail -->
     <dimen name="detail_title_text_size">42sp</dimen>
     <dimen name="detail_body_text_size">20sp</dimen>
