@@ -3,7 +3,7 @@
     <dimen name="status_bar_height_material">24dp</dimen>
     <dimen name="toolbar_height_material">64dp</dimen>
     <dimen name="subtitle_height_material">48dp</dimen>
-    <dimen name="screen_margin_material">24dp</dimen>
+    <dimen name="screen_margin_material">8dp</dimen>
     <dimen name="content_left_margin">72dp</dimen>
 
     <!-- detail -->
