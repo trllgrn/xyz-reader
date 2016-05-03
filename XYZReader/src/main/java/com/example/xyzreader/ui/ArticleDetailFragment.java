@@ -39,17 +39,6 @@ public class ArticleDetailFragment extends Fragment implements
     private String mArticleDate;
     private String mPhotoURL;
 
-    //private int mMutedColor = 0xFF333333;
-    //private ObservableScrollView mScrollView;
-    //private DrawInsetsFrameLayout mDrawInsetsFrameLayout;
-    //private ColorDrawable mStatusBarColorDrawable;
-
-    //private int mTopInset;
-    //private View mPhotoContainerView;
-    //private ImageView mPhotoView;
-    //private int mScrollY;
-    //private boolean mIsCard = false;
-    //private int mStatusBarFullOpacityBottom;
 
     /**
      * Mandatory empty constructor for the fragment manager to instantiate the
@@ -77,10 +66,6 @@ public class ArticleDetailFragment extends Fragment implements
 
         parentActivity = (ArticleDetailActivity) getActivity();
 
-
-        //mIsCard = getResources().getBoolean(R.bool.detail_is_card);
-        //mStatusBarFullOpacityBottom = getResources().getDimensionPixelSize(
-        //        R.dimen.detail_card_top_margin);
         setHasOptionsMenu(true);
     }
 
@@ -99,15 +84,6 @@ public class ArticleDetailFragment extends Fragment implements
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
             Bundle savedInstanceState) {
         mRootView = inflater.inflate(R.layout.fragment_article_detail, container, false);
-
-
-
-
-        //mPhotoView = (ImageView) mRootView.findViewById(R.id.photo);
-
-        //mStatusBarColorDrawable = new ColorDrawable(0);
-
-
 
         bindViews();
         return mRootView;
